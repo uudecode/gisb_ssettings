@@ -1,0 +1,134 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="141+">
+    <driver id="e9e6c55a-2639-4f55-9d02-8ff9c8ca0453" name="trak @ homenet driver" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver" icon="AllIcons.Providers.Oracle">
+      <artifact name="Oracle" />
+      <url-template name="Service Name" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@//{host::localhost}?[:{port::1521}]/{service:database:XE}" />
+      <url-template name="SID" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{host::localhost}?[:{port::1521}]:{SID:database:XE}" />
+      <url-template name="TNS" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{tns_name}" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/ojdbc6.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/orai18n.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xml.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xdb.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xmlparserv2.jar</url>
+      </library>
+    </driver>
+    <driver id="h2.unified" name="H2" dialect="H2">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle" name="Oracle" dialect="Oracle">
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-12.1.0.2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2_2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-12.1.0.2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
+      </library>
+    </driver>
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.9.jar</url>
+      </library>
+    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
+      </library>
+    </driver>
+    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
+      <option name="auto-sync" value="false" />
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
+      <option name="auto-sync" value="false" />
+      <property name="prompt" value="false" />
+    </driver>
+    <driver id="mysql" name="MySQL" dialect="MySQL">
+      <option name="auto-sync" value="true" />
+      <property name="autoReconnect" value="true" />
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+      <property name="characterEncoding" value="utf8" />
+      <property name="characterSetResults" value="utf8" />
+      <property name="yearIsDateType" value="false" />
+    </driver>
+    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="eb9b48fe-c008-4d9b-958d-d92b4ce5cee3" name="Oracle - trak@octo5 driver" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver" icon="AllIcons.Providers.Oracle">
+      <artifact name="Oracle" />
+      <url-template name="Service Name" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@//{host::localhost}?[:{port::1521}]/{service:identifier:XE}" />
+      <url-template name="SID" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{host::localhost}?[:{port::1521}]:{SID:identifier:XE}" />
+      <url-template name="TNS" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{tns_name}" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/ojdbc6.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/orai18n.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xdb.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xmlparserv2.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xml.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xmlmesg.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Google Диск/libs/java/external libs/xquery.jar</url>
+      </library>
+    </driver>
+  </component>
+</application>

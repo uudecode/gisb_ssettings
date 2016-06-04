@@ -1,0 +1,69 @@
+<application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="generateAnnotations" value="false" />
+    <option name="generateSingleXml" value="true" />
+    <option name="GENERATE_ANNOTATIONS" value="false" />
+    <option name="GENERATE_XML" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="RENAME_VARIABLES" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/RealtyParser" />
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/DB%20scripts/PostgreSQL/" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/FileTosserScheduler" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/inputgen/" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/Release/Release_1.3.0/" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/RealtyParser" />
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/Росреестр/ЕГРОН/Soft" />
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/DB%20scripts/PostgreSQL/" />
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/FileTosserScheduler" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/inputgen/" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/Release/Release_1.3.0/" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC" />
+        <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/DBPatches" />
+      </list>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
