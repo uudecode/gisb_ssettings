@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'T:\svn\ATK\RealtyParser\RealtyJaxRS\src\main\java\ru\at_consulting\popd\realty\RealtyResource.java'" />
-    <option name="defaultScopeName" value="File 'T:\svn\ATK\RealtyParser\RealtyJaxRS\src\main\java\ru\at_consulting\popd\realty\RealtyResource.java'" />
-    <option name="SEARCH_SCOPE" value="File 'T:\svn\ATK\RealtyParser\RealtyJaxRS\src\main\java\ru\at_consulting\popd\realty\RealtyResource.java'" />
+    <option name="customScope" value="Project 'RealtyParser'" />
+    <option name="defaultScopeName" value="Project 'RealtyParser'" />
+    <option name="SEARCH_SCOPE" value="Project 'RealtyParser'" />
   </component>
 </application>
