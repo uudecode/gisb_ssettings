@@ -23,6 +23,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/Росреестр/ЕГРОН/Soft/REST Api" />
         <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/RealtyParser" />
         <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/DB%20scripts/PostgreSQL/" />
         <option value="https://wiki.service.jet.msk.su/svn/SBR-OCTOPUS-SRC/FileTosserScheduler" />
@@ -33,6 +34,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/Росреестр/ЕГРОН/Soft/REST Api" />
         <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/RealtyParser" />
         <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/Росреестр/ЕГРОН/Soft" />
         <option value="https://svn.at-consulting.ru/repos/INV_GSS_SPB/%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80/%D0%95%D0%93%D0%A0%D0%9E%D0%9D/Soft/DB%20scripts/PostgreSQL/" />
