@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="bdy" type="SQL" />
       <mapping ext="pkb" type="SQL" />
-      <mapping ext="xjb" type="XML" />
     </extensionMap>
   </component>
 </application>
