@@ -1,0 +1,142 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="h2.unified" name="H2" dialect="H2">
+      <artifact name="H2" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle" name="Oracle" dialect="Oracle">
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/Jet/2013/ExportObfuscatedData/lib/classes12.jar</url>
+      </library>
+    </driver>
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.0" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.8.11.2" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <property name="enable_load_extension" value="true" />
+    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+      <artifact name="PostgreSQL" use="true" version="9.4-1201" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+    </driver>
+    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
+      <artifact name="DB2" use="true" />
+      <option name="auto-sync" value="false" />
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+      <artifact name="SQL Server" use="true" version="4.0.2206.100" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+    </driver>
+    <driver id="java.sql.Driver" name="Hive hadoop" driver-class="org.apache.hive.jdbc.HiveDriver">
+      <option name="auto-commit" value="false" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/hive-jdbc-1.1.0-cdh5.9.0-standalone.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/hadoop-client-2.7.3.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/hadoop-common-2.7.3.jar</url>
+      </library>
+    </driver>
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
+      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <option name="auto-sync" value="false" />
+      <property name="prompt" value="false" />
+    </driver>
+    <driver id="mysql" name="MySQL" dialect="MySQL">
+      <artifact name="MySQL Connector/J" use="true" />
+      <option name="auto-sync" value="true" />
+      <property name="autoReconnect" value="true" />
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+      <property name="characterEncoding" value="utf8" />
+      <property name="characterSetResults" value="utf8" />
+      <property name="yearIsDateType" value="false" />
+    </driver>
+    <driver id="09c07de0-03aa-4b42-a2e3-4ea589759161" name="Impala hadoop" driver-class="com.cloudera.impala.jdbc4.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/commons-codec-1.3.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/commons-logging-1.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/hive_metastore.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/hive_service.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/httpclient-4.1.3.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/httpcore-4.1.3.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/ImpalaJDBC4.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/libfb303-0.9.0.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/libthrift-0.9.0.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/log4j-1.2.14.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/ql.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/slf4j-api-1.5.11.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/slf4j-log4j12-1.5.11.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/TCLIServiceClient.jar</url>
+      </library>
+      <library>
+        <url>file://X:/GoogleDrive/uudecode/libs/java/external libs/ImapalaJDBC4_2.5.36/zookeeper-3.4.6.jar</url>
+      </library>
+    </driver>
+    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+  </component>
+</application>

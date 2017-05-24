@@ -1,0 +1,338 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="GW Sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1482684010000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="1" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb:parent" />
+                <option name="longName" value="Parent" />
+                <option name="name" value="Parent" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="13" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb:common-model" />
+                <option name="longName" value="Common model" />
+                <option name="name" value="Common model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="3" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.database:database" />
+                <option name="longName" value="Database" />
+                <option name="name" value="Database" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="8" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.database:database-adapter" />
+                <option name="longName" value="Database adapter" />
+                <option name="name" value="Database adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="4" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.database:database-model" />
+                <option name="longName" value="Database model" />
+                <option name="name" value="Database model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="12" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.database:database-scripts" />
+                <option name="longName" value="Database scripts" />
+                <option name="name" value="Database scripts" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="2" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.datasources:datasources" />
+                <option name="longName" value="Datasources" />
+                <option name="name" value="Datasources" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="134" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.file:da-files" />
+                <option name="longName" value="Diasoft file adapter" />
+                <option name="name" value="Diasoft file adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="167" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.rates:da-rates" />
+                <option name="longName" value="Diasoft rates adapter" />
+                <option name="name" value="Diasoft rates adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="64" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.email:email" />
+                <option name="longName" value="Email" />
+                <option name="name" value="Email" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="65" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.email:email-model" />
+                <option name="longName" value="Email model" />
+                <option name="name" value="Email model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="137" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.rates:exchange-rates" />
+                <option name="longName" value="Exchange rates" />
+                <option name="name" value="Exchange rates" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="181" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb:features" />
+                <option name="longName" value="Features" />
+                <option name="name" value="Features" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="128" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.file:file-adapter" />
+                <option name="longName" value="File adapter" />
+                <option name="name" value="File adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="83" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.file:file-model" />
+                <option name="longName" value="File model" />
+                <option name="name" value="File model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="82" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.file:file-transfer" />
+                <option name="longName" value="File trasfer" />
+                <option name="name" value="File trasfer" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="183" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.monitoring:monitoring" />
+                <option name="longName" value="Monitoring" />
+                <option name="name" value="Monitoring" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="46" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.notification:notification-adapter" />
+                <option name="longName" value="Notification adapter" />
+                <option name="name" value="Notification adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="26" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.notification:notification-model" />
+                <option name="longName" value="Notification model" />
+                <option name="name" value="Notification model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="25" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.notification:notifications" />
+                <option name="longName" value="Notifications" />
+                <option name="name" value="Notifications" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="182" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb:offline-repository" />
+                <option name="longName" value="Offline Repository" />
+                <option name="name" value="Offline Repository" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="138" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.rates:rates-model" />
+                <option name="longName" value="Rates model" />
+                <option name="name" value="Rates model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="61" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.sms:smpp-adapter" />
+                <option name="longName" value="Smpp adapter" />
+                <option name="name" value="Smpp adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="50" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.sms:sms" />
+                <option name="longName" value="Sms" />
+                <option name="name" value="Sms" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="51" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.sms:sms-model" />
+                <option name="longName" value="Sms model" />
+                <option name="name" value="Sms model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="74" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.email:smtp-adapter" />
+                <option name="longName" value="Smtp adapter" />
+                <option name="name" value="Smtp adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="133" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.file:svbo-files" />
+                <option name="longName" value="Svbo file adapter" />
+                <option name="name" value="Svbo file adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684184000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="222" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.rates:svbo-rates" />
+                <option name="longName" value="Svbo rates adapter" />
+                <option name="name" value="Svbo rates adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1482684015000" />
+                <option name="date" value="1482760895000" />
+                <option name="id" value="166" />
+                <option name="key" value="ru.jetinfosoft.soyuzbank.esb.rates:treasury-rates" />
+                <option name="longName" value="Treasury rates adapter" />
+                <option name="name" value="Treasury rates adapter" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+        <entry key="vlx">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
