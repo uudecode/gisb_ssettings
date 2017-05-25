@@ -1,0 +1,24 @@
+<application>
+  <component name="localAnalysisScripts">
+    <option name="beans">
+      <list>
+        <LocalAnalysisScript>
+          <option name="name" value="my script" />
+          <option name="pathToSonarReport" value="$WORKING_DIR/target/sonar/sonar-report.json" />
+          <option name="sourceCode" value="x:\x\mvn sonar:sonar -DskipTests=true -Dsonar.language=java -Dsonar.analysis.mode=preview -Dsonar.report.export.path=sonar-report.json -Dsonar.host.url=$SONAR_HOST_URL" />
+        </LocalAnalysisScript>
+      </list>
+    </option>
+  </component>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://gw.homenet.trak.spb.ru:9000" />
+          <option name="name" value="GW Sonar" />
+          <option name="user" value="admin" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

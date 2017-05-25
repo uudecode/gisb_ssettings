@@ -3,47 +3,27 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/agoncal/agoncal-book-javaee7" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@cdpdev.lpr.jet.msk.su:sbrf/ArchivationForEKSandEKP.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://cdpdev.lpr.jet.msk.su" />
-          <option name="userName" value="uv.ivanov@jet.msk.su" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://cdpdev.lpr.jet.msk.su/sbrf/ArchivationForEKSandEKP.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.at-consulting.ru:popd/realty.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/javaee-samples/javaee7-samples" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/highsource/maven-jaxb2-plugin" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git-wip-us.apache.org/repos/asf/cxf-xjc-utils.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://github.com/camelinaction/camelinaction" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:uudecode/gsidbmigration.git" />
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:SOYUZBANK/soyuzbank.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:SOYUZBANK/integration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pentaho/pentaho-reporting" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/webdetails/cde" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="T:\github" />
+    <option name="cloneParentDir" value="X:\Jet" />
   </component>
 </application>

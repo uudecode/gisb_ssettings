@@ -2,7 +2,7 @@
   <component name="atlassian-ide-plugin">
     <option name="generalConfigurationData">
       <GeneralConfigurationBean>
-        <option name="anonymousEnhancedFeedbackEnabled" value="true" />
+        <option name="anonymousEnhancedFeedbackEnabled" value="false" />
         <option name="statsCountersMap">
           <map>
             <entry key="a" value="0" />
@@ -11,7 +11,7 @@
             <entry key="r" value="0" />
           </map>
         </option>
-        <option name="uid" value="1464017008995" />
+        <option name="uid" value="1481208473407" />
       </GeneralConfigurationBean>
     </option>
   </component>

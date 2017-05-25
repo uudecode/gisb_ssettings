@@ -3,5 +3,8 @@
     <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.0.0" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/3b9e284a_v1.0.0.xml" />
     <resource url="http://camel.apache.org/schema/blueprint" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/21f2758e_camel-blueprint.xsd" />
     <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://www.springframework.org/schema/osgi" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/d7853015_spring-osgi.xsd" />
+    <resource url="http://www.springframework.org/schema/osgi-compendium" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/961a5c47_spring-osgi-compendium.xsd" />
+    <resource url="http://www.springframework.org/schema/osgi/spring-osgi.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/d7853015_spring-osgi.xsd" />
   </component>
 </application>

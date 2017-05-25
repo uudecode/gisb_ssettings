@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="bdy" type="SQL" />
-      <mapping ext="pkb" type="SQL" />
+      <mapping ext="cdfde" type="JSON" />
+      <mapping pattern="properties" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
