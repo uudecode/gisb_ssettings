@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="cdfde" type="JSON" />
       <mapping pattern="properties" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
